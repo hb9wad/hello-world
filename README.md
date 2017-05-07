@@ -1,4 +1,5 @@
 # hello-world
 Koni's erste Schritte
-So, jetz tüemer öbbis ergänze.
-Pipapo
+/n So, jetz tüemer öbbis ergänze.
+/n Pipapo
+/n guguseli
